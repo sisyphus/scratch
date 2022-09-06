@@ -1,2 +1,4 @@
 this is file1.txt
 1
+
+modified in new-branch-1
