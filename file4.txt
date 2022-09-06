@@ -3,3 +3,6 @@ this is file4.txt
 2
 3
 4
+
+modified in master
+modification 2 in master
