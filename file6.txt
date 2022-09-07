@@ -1,0 +1,7 @@
+file6.txt created in master
+1
+2
+3
+4
+5
+6
